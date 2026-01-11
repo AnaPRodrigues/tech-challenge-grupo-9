@@ -13,3 +13,9 @@ python3 -m venv ambiente_virtual
 ```bash
 source ambiente_virtual/bin/activate
 ```
+
+3 - Instale as dependências
+
+```bash
+pip install -r requirements.txt
+```
