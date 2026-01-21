@@ -41,7 +41,7 @@ Após os testes, o modelo **XGBoost Classifier** foi o selecionado para a soluç
 
 ## 📒 Documentação Técnica e Vídeo
 * **Notebook do Projeto:** [Acesse o Notebook Principal](./tech-challenge-chikungunya.ipynb)
-* **Vídeo Explicativo:** [Assista à apresentação no YouTube](https://youtu.be/8BiieKbi8uk) **#TODO: colocar o link do video**
+* **Vídeo Explicativo:** [Assista à apresentação no YouTube](https://youtu.be/hXkE4jt8YoU)
 
 ---
 
