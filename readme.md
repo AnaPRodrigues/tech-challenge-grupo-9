@@ -71,4 +71,4 @@ A arquitetura desenvolvida visa automatizar a triagem inicial de exames, identif
 
 O desenvolvimento completo desta análise, incluindo a arquitetura da rede, o pré-processamento das imagens e as métricas de validação, pode ser consultado no repositório oficial do grupo:
 
-👉 **[Acesse aqui o Notebook da Atividade Extra (CNN - Breast Cancer)](./Atividade_Extra.ipynb)** **#TODO: colocar o link do notebook**
+👉 **[Acesse aqui o Notebook e a Base de dados da Atividade Extra (CNN - Breast Cancer)](https://drive.google.com/drive/folders/19jXpa3xlQ_FiFFPe7NphtAW1B6Tixoi8)
